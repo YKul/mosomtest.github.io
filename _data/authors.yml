@@ -1,0 +1,14 @@
+Yuri Kulish:
+  name: "Yuri Kulish"
+  bio: "Graduate student"
+  avatar: "/assets/images/Yuri_Kulish.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yuri.kulish@dal.ca"
+
+Test Student:
+  name: "Test Student"
+  bio: "Former DISP student"
+  avatar: "/assets/images/doodle.jpg"
+
